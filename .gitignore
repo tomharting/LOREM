@@ -1,0 +1,10 @@
+# IDEA files
+.idea
+
+# Stored models, embeddings and datafiles
+data/datafile/*
+data/embeddings/*
+data/model/*
+
+# Exported relations
+export/*
