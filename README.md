@@ -1,6 +1,6 @@
-# LOREM: a Language-consistent Open Relation Extraction Model
+# LOREM: Language-consistent Open Relation Extraction from Unstructured Text
 
-For a detailed description of the model, we refer you to our paper “LOREM: A Language-consistent Open Relation Extraction Model”. Please cite this work if it was useful to you.
+For a detailed description of the model, we refer you to our paper “LOREM: Language-consistent Open Relation Extraction from Unstructured Text”. Please cite this work if it was useful to you.
 
 ## Table of contents
 - [Description](#description)
