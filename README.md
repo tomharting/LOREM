@@ -1,6 +1,4 @@
 # LOREM: Language-consistent Open Relation Extraction from Unstructured Text
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
 
 For a detailed description of the model, we refer you to our paper “LOREM: Language-consistent Open Relation Extraction from Unstructured Text”. Please cite this work if it was useful to you.
 > Tom Harting, Sepideh Mesbah, and Christoph Lofi. 2020. LOREM: Language-consistent Open Relation Extraction from Unstructured Text. In Proceedings of The Web Conference 2020 (WWW ’20), April 20–24, 2020, Taipei, Taiwan. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3366423.3380252.
@@ -145,3 +143,6 @@ Open Information Extraction data for other languages was published by:
 
 We utilize pre-trained monolingual and multilingual word embeddings from respectively:
 > https://fasttext.cc/docs/en/crawl-vectors.html <br/> https://fasttext.cc/docs/en/aligned-vectors.html
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
