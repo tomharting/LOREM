@@ -143,6 +143,3 @@ Open Information Extraction data for other languages was published by:
 
 We utilize pre-trained monolingual and multilingual word embeddings from respectively:
 > https://fasttext.cc/docs/en/crawl-vectors.html <br/> https://fasttext.cc/docs/en/aligned-vectors.html
-
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
