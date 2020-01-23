@@ -29,9 +29,7 @@ LOREM is able to correctly extract the relation as being
 > deciphered
 
 ## Quick start
-In order to use LOREM, you first need to install _Python 2.7_ and the required packages from _requirements.txt_. If you want to use a NVIDIA GPU, you additionally need to install _NVIDIA driver 390.87_, _CUDA 9.0_ and _CuDNN 7.0.5_ and the _tensorflow-gpu_ Python package.
-
-Once this is done, we start by training and testing the model.
+In order to use LOREM, you first need to install the required packages from _requirements.txt_. Once this is done, we start by training and testing the model.
 
 ### Training and testing
 As is described in our paper, LOREM includes two sub-models; language-consistent and language-individual models.
