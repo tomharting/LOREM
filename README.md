@@ -1,7 +1,7 @@
 # LOREM: Language-consistent Open Relation Extraction from Unstructured Text
 
 For a detailed description of the model, we refer you to our paper “LOREM: Language-consistent Open Relation Extraction from Unstructured Text”. Please cite this work if it was useful to you.
-> Tom Harting, Sepideh Mesbah, and Christoph Lofi. 2020. LOREM: Language- consistent Open Relation Extraction from Unstructured Text. In Proceedings of The Web Conference 2020 (WWW ’20), April 20–24, 2020, Taipei, Taiwan. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3366423.3380252
+> Tom Harting, Sepideh Mesbah, and Christoph Lofi. 2020. LOREM: Language-consistent Open Relation Extraction from Unstructured Text. In _Proceedings of The Web Conference 2020 (WWW ’20), April 20–24, 2020, Taipei, Taiwan_. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3366423.3380252
 
 ## Table of contents
 - [Description](#description)
